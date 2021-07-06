@@ -71,15 +71,18 @@ body{
     text-align: center;
 }
 
-footer p{
-    text-align: center;
-    background-color: black;
+
+
+
+
+.footer-section
+{
+padding-top: 5px;
+    padding-bottom: 5px;
     color: white;
-    padding: 40px 40px;
-    margin: 10px 10px;
-}
-.para{
+    background-color: black;
     text-align: center;
+
 }
 
 
