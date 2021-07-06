@@ -1,0 +1,33 @@
+h1{
+    font-size: 50px;
+}
+h3{
+    font-size: 40px;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+}
+.heading-color{
+    color: rgba(146, 48, 9, 0.918);
+}
+section{
+    display: flex;
+}
+.devide{
+    width: 50%;
+    padding-left: 3%;
+    
+}
+.devide img{
+    width: 85%;
+     
+}
+.order-btn{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(146, 90, 125) ,rgb(228, 126, 86));
+    padding: 8px 20px;
+    border-radius: 10px;
+    color: white;
+    font-weight: 800;
+}
