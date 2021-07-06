@@ -13,6 +13,7 @@ body{
 }
 section{
     display: flex;
+    margin-bottom: 150px;
 }
 .devide{
     width: 50%;
@@ -20,7 +21,7 @@ section{
     
 }
 .devide img{
-    width: 85%;
+    width: 70%;
      
 }
 .order-btn{
@@ -30,4 +31,14 @@ section{
     border-radius: 10px;
     color: white;
     font-weight: 800;
+}
+.about-us{
+    background-image: url(images/shapes/Frame\ 58.jpg);
+    background-repeat: no-repeat;
+}
+.second-heading{
+    padding: 40px 20px;
+}
+.para{
+   padding:  20px 10px;
 }
